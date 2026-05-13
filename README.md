@@ -95,7 +95,7 @@ Follow these steps to get the café running on your local machine.
 1. **Clone the repository**
 
 ```bash
-git clone [https://github.com/ds-labs-op/enso-coffee.git](https://github.com/ds-labs-op/enso-coffee.git)
+git clone [https://github.com/ds-labs-33/enso-coffee.git](https://github.com/ds-labs-op/enso-coffee.git)
 cd enso-coffee
 
 ```
